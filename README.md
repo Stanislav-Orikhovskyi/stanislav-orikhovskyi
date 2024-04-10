@@ -18,9 +18,10 @@ Hi, I'm Stanislav Orikhovskyi, a passionate front-end developer and a freelance 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://sass-lang.com/assets/img/logos/logo.svg"></code>
 
-<code><img height="20" src="https://gulpjs.com/img/gulp.svg"></code>
+<code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/da43dae9-9beb-403b-bfc7-ff0cc26a737a"></code>
 <code><img height="20" src="https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg"></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>
+
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
