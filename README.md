@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-<img align="right" style="display: block" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
-###### 
-=========================
-
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" style="display: block; max-width: 100%;" />
+###### 
 
 
 
