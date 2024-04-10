@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" style="display: block; max-width: 60%;" />
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" style="max-width: 60%;" />
 
 
 
