@@ -19,12 +19,15 @@ Hi, I'm Stanislav Orikhovskyi, a passionate front-end developer and a freelance 
 
 <code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/9c9f81a2-b91e-48bc-844d-68afbfb6df08"></code>
 <code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/fde92e51-1f93-4079-b76d-e6965b27512c"></code>
-<code><img height="20" src=https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/1549ab76-df9c-452a-af1f-97713604d341"></code>
+<code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/1549ab76-df9c-452a-af1f-97713604d341"></code>
 
 **Tools:**  
 <code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/5198f3a0-1100-4860-8366-7fd807b9618c"></code>
 <code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/20199acf-2efb-4538-9ab1-0aaeda58d7c8"></code>
 <code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/d797b07e-b9c0-48f4-88bf-496504116335"></code>
+<code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/4a95f310-24bd-4385-bcab-c0acfc14bcae"></code>
+<code><img height="20" src="https://github.com/Stanislav-Orikhovskyi/stanislav-orikhovskyi/assets/43533425/3c5dab2b-ef7b-418e-a86d-fcab878d74a4"></code>
+
 
 
 📊 **This week i spent my time on:**
